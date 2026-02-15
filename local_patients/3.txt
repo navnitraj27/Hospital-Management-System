@@ -1,0 +1,4 @@
+Patient ID: 3
+Name: rahul
+Age: 18
+Stored: data/patients.txt

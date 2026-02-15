@@ -1,0 +1,4 @@
+Patient ID: 4
+Name: anyan
+Age: 30
+Stored: data/patients.txt

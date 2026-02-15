@@ -1,0 +1,4 @@
+Patient ID: 6
+Name: wd
+Age: 29
+Stored: data/patients.txt

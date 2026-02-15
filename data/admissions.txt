@@ -1,0 +1,4 @@
+1,1,rahul  age=20,dibetes,1,mayank ojha,4,3000.0,discharged,true
+2,2,rahul  age=18,sugar,2,ram sharma ,20,11000.0,discharged,true
+3,3,rahul  age=18,asthma,2,ram sharma,10,6000.0,discharged,true
+4,6,wd  age=29,rarrarararr,1,mayank ojha,16,9000.0,discharged,true
